@@ -1,0 +1,39 @@
+    .coll{
+        margin: 15px 15px 15px 15px;
+      justify-content: center;
+      align-items: center;
+    }
+    .mentor-element{
+        margin: 10px 10px 10px 10px;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .btn:hover{
+      background-color:#ff00ff;
+    }
+    .inner-ele{
+        margin-top:10px;
+    }
+    .main{
+        margin:10px 10px 10px 10px;
+    }
+    .profile-container{
+        display: flex;
+        margin-top:50px;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .container-dashboard{
+        margin-top:20px;
+        justify-content: center;
+        align-items: center;
+    }
+    .heading{
+      font-family: 'Source Code Pro', monospace;
+    }
+    
+    .ele{
+        border-top: 1px solid rgba(0,0,0,.125);
+    }
